@@ -2,7 +2,7 @@
 
 Welcome to my repository for training and documentation as part of my LTTS learning journey with GEA StepIn training program in **Agile Methodology**, **Git Version Control**, and **Linux Command Line Basics**.
 
-## 📁 Repository Structure
+## Repository Structure
 
 ├── Git/
 │ └── Certificates related to Agile and Git
@@ -10,17 +10,17 @@ Welcome to my repository for training and documentation as part of my LTTS learn
 ├── Basic Linux commands.pdf
 
 
-## 📚 Files Included
+## Files Included
 
-### ✅ `Agile for Beginners.pdf`
+### `Agile for Beginners.pdf`
 - A beginner-friendly document that explains Agile concepts, principles, and frameworks such as Scrum and Kanban.
 - Useful for understanding Agile Software Development Lifecycle (SDLC).
 
-### ✅ `Basic Linux commands.pdf`
+### `Basic Linux commands.pdf`
 - Contains commonly used Linux terminal commands.
 - Ideal for learners beginning with Ubuntu/Linux shell and scripting basics.
 
-### ✅ `Git/`
+### `Git/`
 - Folder containing related certificates and Git usage documentation.
 - Demonstrates understanding of source code management and version control through Git.
 
